@@ -14,6 +14,16 @@ Pada Final Project ini, kami memilih command sebagai berikut :
 5. Tail
 
 ## Hasil
+Sebelum mengerjakan command berikut dibuat dahulu satu library baru, yaitu fcntl.h :
+- fcntl.h
+```
+#define O_RDONLY  0x000
+#define O_WRONLY  0x001
+#define O_RDWR    0x002
+#define O_CREATE  0x200
+#define O_CREAT   0x040
+#define O_TRUNC   0x200
+```
 1. Clear
 ```
 #include "types.h"
