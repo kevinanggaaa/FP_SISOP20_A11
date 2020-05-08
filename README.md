@@ -6,6 +6,7 @@
 # Daftar Isi
 1. [ Soal ](#soal)
 2. [ Hasil ](#hasil)
+3. [ Pembuktian ](#Bukti)
 <a name="soal"></a>
 ## Soal
 Praktikan memilih 5 command yang terdiri dari 1 command tabel 1, 2 command tabel 2 dan 2 command tabel 3.
@@ -687,3 +688,4 @@ int main(int argc, char* argv[]) {
 	exit();
 }
 ```
+## Bukti
