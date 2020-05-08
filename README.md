@@ -703,37 +703,37 @@ int main(int argc, char* argv[]) {
 <a name="bkhead"></a>
 ### Head
 ![image](https://user-images.githubusercontent.com/60419316/81377585-09f91d00-9130-11ea-8aed-0efddcdcad31.png)
-![image](https://user-images.githubusercontent.com/60419316/81377597-13828500-9130-11ea-94f3-ea4e0f94bc5e.png)
-![image](https://user-images.githubusercontent.com/60419316/81377618-1c735680-9130-11ea-9110-cc92bcf6f373.png)
-![image](https://user-images.githubusercontent.com/60419316/81377646-27c68200-9130-11ea-8136-8d010c36784d.png)
-![image](https://user-images.githubusercontent.com/60419316/81377671-33b24400-9130-11ea-92eb-c1559d951e17.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377597-13828500-9130-11ea-94f3-ea4e0f94bc5e.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377618-1c735680-9130-11ea-9110-cc92bcf6f373.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377646-27c68200-9130-11ea-8136-8d010c36784d.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377671-33b24400-9130-11ea-92eb-c1559d951e17.png)
 <a name="bktail"></a>
 ### Tail
 ![image](https://user-images.githubusercontent.com/60419316/81377708-40cf3300-9130-11ea-9620-93cb11167aa6.png)
-![image](https://user-images.githubusercontent.com/60419316/81377729-49276e00-9130-11ea-9abd-a0dd33b2c3ce.png)
-![image](https://user-images.githubusercontent.com/60419316/81377759-55abc680-9130-11ea-93ff-052a20ce01c9.png)
-![image](https://user-images.githubusercontent.com/60419316/81377778-5f352e80-9130-11ea-973b-761ec2ab7965.png)
-![image](https://user-images.githubusercontent.com/60419316/81377933-a02d4300-9130-11ea-95cb-f6eba2e247bf.png)
-![image](https://user-images.githubusercontent.com/60419316/81377957-ac190500-9130-11ea-9025-22e2a0732597.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377729-49276e00-9130-11ea-9abd-a0dd33b2c3ce.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377759-55abc680-9130-11ea-93ff-052a20ce01c9.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377778-5f352e80-9130-11ea-973b-761ec2ab7965.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377933-a02d4300-9130-11ea-95cb-f6eba2e247bf.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81377957-ac190500-9130-11ea-9025-22e2a0732597.png)
 <a name="bkbase64"></a>
 ### Base64
 ![image](https://user-images.githubusercontent.com/60419316/81378019-bfc46b80-9130-11ea-803e-518cde685b8c.png)
-![image](https://user-images.githubusercontent.com/60419316/81378044-ca7f0080-9130-11ea-8de0-87bb9ea368d6.png)
-![image](https://user-images.githubusercontent.com/60419316/81378069-d7035900-9130-11ea-994e-dbc72811f434.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378044-ca7f0080-9130-11ea-8de0-87bb9ea368d6.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378069-d7035900-9130-11ea-994e-dbc72811f434.png)
 <a name="bkrename"></a>
 ### Rename
 ![image](https://user-images.githubusercontent.com/60419316/81378378-64df4400-9131-11ea-802e-efdc11e91f5b.png)
-![image](https://user-images.githubusercontent.com/60419316/81378411-71639c80-9131-11ea-905d-3679e04e6020.png)
-![image](https://user-images.githubusercontent.com/60419316/81378431-7cb6c800-9131-11ea-9dfa-d54fe265d959.png)
-![image](https://user-images.githubusercontent.com/60419316/81378450-86d8c680-9131-11ea-9840-938090af3ff9.png)
-![image](https://user-images.githubusercontent.com/60419316/81378480-92c48880-9131-11ea-83cb-4cddc519f22e.png)
-![image](https://user-images.githubusercontent.com/60419316/81378517-a112a480-9131-11ea-8af2-d51d82a0115d.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378411-71639c80-9131-11ea-905d-3679e04e6020.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378431-7cb6c800-9131-11ea-9dfa-d54fe265d959.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378450-86d8c680-9131-11ea-9840-938090af3ff9.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378480-92c48880-9131-11ea-83cb-4cddc519f22e.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378517-a112a480-9131-11ea-8af2-d51d82a0115d.png)
 </br> uppercase lowercase
-![image](https://user-images.githubusercontent.com/60419316/81378605-c2739080-9131-11ea-9b64-fdee38f9d73d.png)
-![image](https://user-images.githubusercontent.com/60419316/81378635-cd2e2580-9131-11ea-81f5-13469bac968a.png)
-![image](https://user-images.githubusercontent.com/60419316/81378650-d4edca00-9131-11ea-8bd5-6cf599e9b66c.png)
-![image](https://user-images.githubusercontent.com/60419316/81378673-dfa85f00-9131-11ea-8c5f-ccbcb432088b.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378605-c2739080-9131-11ea-9b64-fdee38f9d73d.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378635-cd2e2580-9131-11ea-81f5-13469bac968a.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378650-d4edca00-9131-11ea-8bd5-6cf599e9b66c.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378673-dfa85f00-9131-11ea-8c5f-ccbcb432088b.png)
 <a name="bkclear"></a>
 ### Clear
 ![image](https://user-images.githubusercontent.com/60419316/81378712-f2bb2f00-9131-11ea-8652-aea4d4108119.png)
-![image](https://user-images.githubusercontent.com/60419316/81378733-0070b480-9132-11ea-8bcf-9db8cbdda55b.png)
+</br>![image](https://user-images.githubusercontent.com/60419316/81378733-0070b480-9132-11ea-8bcf-9db8cbdda55b.png)
