@@ -3,7 +3,10 @@
 ## Kevin Angga Wijaya - 05111840000024
 ## Julius - 05111840000082
 ![image](https://user-images.githubusercontent.com/60419316/81245500-57499180-903f-11ea-86d1-7a9597fafeb0.png)
-
+# Daftar Isi
+1. [ Soal ](#soal)
+2. [ Hasil ](#hasil)
+<a name="soal"></a>
 ## Soal
 Praktikan memilih 5 command yang terdiri dari 1 command tabel 1, 2 command tabel 2 dan 2 command tabel 3.
 Pada Final Project ini, kami memilih command sebagai berikut :
@@ -12,8 +15,8 @@ Pada Final Project ini, kami memilih command sebagai berikut :
 3. [ Head ](#head)
 4. [ Base64 ](#base64)
 5. [ Tail ](#tail)
-Untuk membuat command di atas, dibutuhkan library baru yaitu **[ fcntl.h ](#fcntl.h)**
-
+</br>Untuk membuat command di atas, dibutuhkan library baru yaitu [ fcntl.h ](#fcntl.h)
+<a name="hasil"></a>
 ## Hasil
 Sebelum mengerjakan command berikut dibuat dahulu satu library baru, yaitu fcntl.h :
 <a name="fcntl.h"></a>
