@@ -14,6 +14,11 @@ Pada Final Project ini, kami memilih command sebagai berikut :
 5. Tail
 
 ## Hasil
+1. [ Clear. ](#clear)
+2. [ Rename. ](#rename)
+3. [ Head. ](#head)
+4. [ Base64. ](#base64)
+5. [ Tail. ](#tail)
 Sebelum mengerjakan command berikut dibuat dahulu satu library baru, yaitu fcntl.h :
 - fcntl.h
 ```
@@ -24,6 +29,7 @@ Sebelum mengerjakan command berikut dibuat dahulu satu library baru, yaitu fcntl
 #define O_CREAT   0x040
 #define O_TRUNC   0x200
 ```
+<a name="clear"></a>
 1. Clear
 ```
 #include "types.h"
@@ -38,6 +44,7 @@ main(int argc, char *argv[])
   exit();
 }
 ```
+<a name="rename"></a>
 2. Rename
 ```
 #include "types.h"
@@ -340,6 +347,7 @@ int main(int argc, char *argv[]) {
   exit();
 }
 ```
+<a name="head"></a>
 3. Head
 ```
 #include "types.h"
@@ -444,6 +452,7 @@ int main(int argc, char* argv[]) {
 	exit();
 }
 ```
+<a name="base64"></a>
 4. Base64
 ```
 #include "types.h"
@@ -504,6 +513,7 @@ int main(int argc, char* argv[]) {
 	exit();
 }
 ```
+<a name="tail"></a>
 5. Tail
 ```
 #include "types.h"
