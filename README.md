@@ -7,12 +7,12 @@
 ## Soal
 Praktikan memilih 5 command yang terdiri dari 1 command tabel 1, 2 command tabel 2 dan 2 command tabel 3.
 Pada Final Project ini, kami memilih command sebagai berikut :
-1. [ Clear. ](#clear)
-2. [ Rename. ](#rename)
-3. [ Head. ](#head)
-4. [ Base64. ](#base64)
-5. [ Tail. ](#tail)
-Untuk membuat command di atas, dibutuhkan library baru yaitu **[ fcntl.h. ](#fcntl.h)**
+1. [ Clear ](#clear)
+2. [ Rename ](#rename)
+3. [ Head ](#head)
+4. [ Base64 ](#base64)
+5. [ Tail ](#tail)
+Untuk membuat command di atas, dibutuhkan library baru yaitu **[ fcntl.h ](#fcntl.h)**
 
 ## Hasil
 Sebelum mengerjakan command berikut dibuat dahulu satu library baru, yaitu fcntl.h :
