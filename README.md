@@ -16,6 +16,7 @@ Pada Final Project ini, kami memilih command sebagai berikut :
 3. [ Head ](#head)
 4. [ Base64 ](#base64)
 5. [ Tail ](#tail)
+</br>
 </br>Untuk membuat command di atas, dibutuhkan library baru yaitu [ fcntl.h ](#fcntl.h)
 <a name="hasil"></a>
 ## Hasil
